@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="web/public/muximux-logo.svg" width="200" alt="Muximux">
+  <img src="web/public/muximux-logo.svg" width="200" alt="BLVCK">
 </p>
 
-# Muximux
+# BLVCK
 
-A self-hosted homelab dashboard with an optional built-in embedding proxy that makes stubborn apps work in iframes.
+A BLVCK-branded customization of [Muximux](https://github.com/mescon/Muximux), a self-hosted workspace for apps you own or administer. Its optional embedding proxy is designed for configured apps, not unrestricted public-web browsing.
+
+This project retains the upstream GPL-2.0 license and required notices. See the original [Muximux project](https://github.com/mescon/Muximux) for upstream history and documentation.
 
 One binary, one port, one YAML config file.
 
