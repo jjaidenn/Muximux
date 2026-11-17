@@ -29,7 +29,7 @@ input[type="color"]::-moz-color-swatch {
 }
 
 /* ═══════════════════════════════════════════════════════════════════════════
-   MUXIMUX DESIGN SYSTEM
+   BLVCK DESIGN SYSTEM
    A refined, information-dense interface for your application dashboard
    ═══════════════════════════════════════════════════════════════════════════ */
 
@@ -98,17 +98,17 @@ input[type="color"]::-moz-color-swatch {
   --color-accent-text: var(--accent-text);
 
   /* ── Colors: brand palette ── */
-  --color-brand-50: #f0fdfa;
-  --color-brand-100: #ccfbf1;
-  --color-brand-200: #99f6e4;
-  --color-brand-300: #5eead4;
-  --color-brand-400: #2dd4bf;
-  --color-brand-500: #14b8a6;
-  --color-brand-600: #0d9488;
-  --color-brand-700: #0f766e;
-  --color-brand-800: #115e59;
-  --color-brand-900: #134e4a;
-  --color-brand-950: #042f2e;
+  --color-brand-50: #fff1f2;
+  --color-brand-100: #ffe4e6;
+  --color-brand-200: #fecdd3;
+  --color-brand-300: #fda4af;
+  --color-brand-400: #fb7185;
+  --color-brand-500: #f43f5e;
+  --color-brand-600: #e11d48;
+  --color-brand-700: #be123c;
+  --color-brand-800: #9f1239;
+  --color-brand-900: #881337;
+  --color-brand-950: #4c0519;
 
   /* ── Typography ── */
   --font-family-display: 'JetBrains Mono', ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas,
@@ -216,24 +216,24 @@ input[type="color"]::-moz-color-swatch {
   --border-focus: var(--accent-primary);
 
   /* Accent colors - sophisticated teal */
-  --accent-primary: #2dd4bf;
-  --accent-secondary: #14b8a6;
+  --accent-primary: #fb7185;
+  --accent-secondary: #f43f5e;
   --accent-muted: rgba(45, 212, 191, 0.2);
   --accent-subtle: rgba(45, 212, 191, 0.1);
   --accent-on-primary: #111111;
 
   /* Brand palette (for app-specific elements) */
-  --color-brand-50: #f0fdfa;
-  --color-brand-100: #ccfbf1;
-  --color-brand-200: #99f6e4;
-  --color-brand-300: #5eead4;
-  --color-brand-400: #2dd4bf;
-  --color-brand-500: #14b8a6;
-  --color-brand-600: #0d9488;
-  --color-brand-700: #0f766e;
-  --color-brand-800: #115e59;
-  --color-brand-900: #134e4a;
-  --color-brand-950: #042f2e;
+  --color-brand-50: #fff1f2;
+  --color-brand-100: #ffe4e6;
+  --color-brand-200: #fecdd3;
+  --color-brand-300: #fda4af;
+  --color-brand-400: #fb7185;
+  --color-brand-500: #f43f5e;
+  --color-brand-600: #e11d48;
+  --color-brand-700: #be123c;
+  --color-brand-800: #9f1239;
+  --color-brand-900: #881337;
+  --color-brand-950: #4c0519;
 
   /* Status colors */
   --status-success: #22c55e;
@@ -293,7 +293,7 @@ input[type="color"]::-moz-color-swatch {
   --danger-text: #f84d4c; --danger-bg: color-mix(in srgb, #ef4444 12%, transparent); --danger-border: #ef4444;
   --info-text: #438aff; --info-bg: color-mix(in srgb, #3b82f6 12%, transparent); --info-border: #3b82f6;
   --danger-solid: #ef4444; --danger-on-solid: #111111;
-  --accent-text: #2dd4bf;
+  --accent-text: #fb7185;
 }
 
 /* ─────────────────────────────────────────────────────────────────────────────
@@ -329,24 +329,24 @@ input[type="color"]::-moz-color-swatch {
   --border-focus: var(--accent-primary);
 
   /* Accent colors - deeper teal for contrast */
-  --accent-primary: #0d9488;
-  --accent-secondary: #0f766e;
+  --accent-primary: #e11d48;
+  --accent-secondary: #be123c;
   --accent-muted: rgba(13, 148, 136, 0.15);
   --accent-subtle: rgba(13, 148, 136, 0.08);
   --accent-on-primary: #111111;
 
   /* Brand palette - shifted darker for light backgrounds */
-  --color-brand-50: #f0fdfa;
-  --color-brand-100: #ccfbf1;
-  --color-brand-200: #5eead4;
-  --color-brand-300: #14b8a6;
-  --color-brand-400: #0d9488;
-  --color-brand-500: #0f766e;
-  --color-brand-600: #115e59;
-  --color-brand-700: #134e4a;
+  --color-brand-50: #fff1f2;
+  --color-brand-100: #ffe4e6;
+  --color-brand-200: #fda4af;
+  --color-brand-300: #f43f5e;
+  --color-brand-400: #e11d48;
+  --color-brand-500: #be123c;
+  --color-brand-600: #9f1239;
+  --color-brand-700: #881337;
   --color-brand-800: #1a3a38;
   --color-brand-900: #112826;
-  --color-brand-950: #042f2e;
+  --color-brand-950: #4c0519;
 
   /* Status colors - slightly adjusted for light bg */
   --status-success: #16a34a;
